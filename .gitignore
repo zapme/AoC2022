@@ -21,7 +21,10 @@ sdist/
 var/
 wheels/
 <<<<<<< HEAD
+<<<<<<< HEAD
 pip-wheel-metadata/
+=======
+>>>>>>> 050f196 (AoC 2022 First 4 days)
 =======
 >>>>>>> 050f196 (AoC 2022 First 4 days)
 share/python-wheels/
@@ -54,6 +57,10 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+cover/
+>>>>>>> 050f196 (AoC 2022 First 4 days)
 =======
 cover/
 >>>>>>> 050f196 (AoC 2022 First 4 days)
@@ -80,6 +87,10 @@ docs/_build/
 
 # PyBuilder
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+.pybuilder/
+>>>>>>> 050f196 (AoC 2022 First 4 days)
 =======
 .pybuilder/
 >>>>>>> 050f196 (AoC 2022 First 4 days)
@@ -94,7 +105,13 @@ ipython_config.py
 
 # pyenv
 <<<<<<< HEAD
+<<<<<<< HEAD
 .python-version
+=======
+#   For a library or package, you might want to ignore these files since the code is
+#   intended to run in multiple environments; otherwise, check them in:
+# .python-version
+>>>>>>> 050f196 (AoC 2022 First 4 days)
 =======
 #   For a library or package, you might want to ignore these files since the code is
 #   intended to run in multiple environments; otherwise, check them in:
@@ -109,8 +126,11 @@ ipython_config.py
 #Pipfile.lock
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 =======
+=======
+>>>>>>> 050f196 (AoC 2022 First 4 days)
 # poetry
 #   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
 #   This is especially recommended for binary packages to ensure reproducibility, and is more
@@ -127,6 +147,9 @@ ipython_config.py
 .pdm.toml
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
+<<<<<<< HEAD
+>>>>>>> 050f196 (AoC 2022 First 4 days)
+=======
 >>>>>>> 050f196 (AoC 2022 First 4 days)
 __pypackages__/
 
@@ -164,7 +187,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 050f196 (AoC 2022 First 4 days)
 
 # pytype static type analyzer
 .pytype/
@@ -177,5 +203,9 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
+<<<<<<< HEAD
+#.idea/
+>>>>>>> 050f196 (AoC 2022 First 4 days)
+=======
 #.idea/
 >>>>>>> 050f196 (AoC 2022 First 4 days)
